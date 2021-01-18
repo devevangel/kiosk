@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/kiosk/static/css/main.ddd34199.chunk.css",
+    "main.js": "/kiosk/static/js/main.8ec5caed.chunk.js",
+    "main.js.map": "/kiosk/static/js/main.8ec5caed.chunk.js.map",
+    "runtime-main.js": "/kiosk/static/js/runtime-main.0d8053bb.js",
+    "runtime-main.js.map": "/kiosk/static/js/runtime-main.0d8053bb.js.map",
+    "static/js/2.7ada42b1.chunk.js": "/kiosk/static/js/2.7ada42b1.chunk.js",
+    "static/js/2.7ada42b1.chunk.js.map": "/kiosk/static/js/2.7ada42b1.chunk.js.map",
+    "index.html": "/kiosk/index.html",
+    "static/css/main.ddd34199.chunk.css.map": "/kiosk/static/css/main.ddd34199.chunk.css.map",
+    "static/js/2.7ada42b1.chunk.js.LICENSE.txt": "/kiosk/static/js/2.7ada42b1.chunk.js.LICENSE.txt",
+    "static/media/kiosk_image.186bcb0b.jpg": "/kiosk/static/media/kiosk_image.186bcb0b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d8053bb.js",
+    "static/js/2.7ada42b1.chunk.js",
+    "static/css/main.ddd34199.chunk.css",
+    "static/js/main.8ec5caed.chunk.js"
+  ]
+}
